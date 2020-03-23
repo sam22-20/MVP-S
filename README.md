@@ -1,5 +1,5 @@
 # MVP-S
 
 
-![Image of Sakinah's User Flow](https://octodex.github.com/images/Sakinah's User Flow.png)
-![Image of DB Schema Quiz](https://octodex.github.com/images/DB Schema Quiz.png)
+![Image of Sakinah's User Flow](https://app.flowmapp.com/projects/122615/userflow/77846/)
+![Image of DB Schema Quiz](https://app.dbdesigner.net/designer/schema/new)
